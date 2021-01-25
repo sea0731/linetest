@@ -1,0 +1,77 @@
+2020-03-30T15:59:10.4678812+08:00|1|INFO|DataSync.Log|Storage folder: D:\Projects\LinetracingVR\Assets\StreamingAssets\TestData\TestStore successfully validated. 
+2020-03-30T15:59:10.5017899+08:00|93|INFO|DataSync.Log|StorageSize. StorageSize: 0. 
+2020-03-30T15:59:10.5596352+08:00|93|INFO|DataSync.Log|MovedFromStorageToSender. 
+2020-03-30T15:59:10.6145168+08:00|93|INFO|DataSync.Log|MovedFromStorageToBuffer. 
+2020-03-30T15:59:10.6702129+08:00|93|INFO|DataSync.Log|MovedFromBufferToSender. 
+2020-03-30T15:59:12.6883948+08:00|1|INFO|DataSync.Log|Transmitter flushed telemetry events. 
+2020-03-30T15:59:12.6883948+08:00|1|INFO|DataSync.Log|SerializationStarted. Items count: 2 
+2020-03-30T15:59:12.7442730+08:00|1|INFO|DataSync.Log|TransmitterEnqueue. TransmissionId: e31c93e59fdd459193357d6dadbf437d(0-1). 
+2020-03-30T15:59:12.7592299+08:00|1|INFO|DataSync.Log|TransmissionSendStarted. TransmissionId: e31c93e59fdd459193357d6dadbf437d(0-1). 
+2020-03-30T15:59:12.7901411+08:00|1|INFO|DataSync.Log|DataSync.ApplicationLifecycleTransmissionPolicy changed sender capacity to 0 
+2020-03-30T15:59:12.7941370+08:00|1|INFO|DataSync.Log|DataSync.ApplicationLifecycleTransmissionPolicy changed buffer capacity to 0 
+2020-03-30T15:59:12.7941370+08:00|1|INFO|DataSync.Log|StorageCapacityReset: DataSync.ApplicationLifecycleTransmissionPolicy 
+2020-03-30T15:59:12.7941370+08:00|1|WARN|DataSync.Log|BufferEnqueueNoCapacity. Size: 0. Capacity: 0. 
+2020-03-30T15:59:12.8110675+08:00|1|INFO|DataSync.Log|MovedFromBufferToStorage. 
+2020-03-30T15:59:12.8110675+08:00|1|INFO|DataSync.Log|TransmitterEmptyBuffer 
+2020-03-30T15:59:12.8110675+08:00|1|WARN|DataSync.Log|BufferEnqueueNoCapacity. Size: 0. Capacity: 0. 
+2020-03-30T15:59:12.8360010+08:00|94|INFO|DataSync.Log|TransmissionSent. TransmissionId: e31c93e59fdd459193357d6dadbf437d(0-1). Capacity: 0. 
+2020-03-30T15:59:12.8409874+08:00|94|WARN|DataSync.Log|SenderEnqueueNoCapacity. TransmissionCount: 0. Capacity: 0. 
+2020-04-03T15:01:30.2755987+08:00|1|INFO|DataSync.Log|Storage folder: D:\專案\LinetracingVR\Assets\StreamingAssets\TestData\TestStore successfully validated. 
+2020-04-03T15:01:30.3085237+08:00|18|INFO|DataSync.Log|StorageSize. StorageSize: 0. 
+2020-04-03T15:01:30.3722445+08:00|18|INFO|DataSync.Log|MovedFromStorageToSender. 
+2020-04-03T15:01:30.4286011+08:00|18|INFO|DataSync.Log|MovedFromStorageToBuffer. 
+2020-04-03T15:01:30.4844509+08:00|18|INFO|DataSync.Log|MovedFromBufferToSender. 
+2020-04-03T15:02:00.3211250+08:00|12|INFO|DataSync.Log|SerializationStarted. Items count: 1 
+2020-04-03T15:02:00.4044377+08:00|12|INFO|DataSync.Log|TransmitterEnqueue. TransmissionId: 6fe0649505d34582903847e70edfa3ca(0-0). 
+2020-04-03T15:02:00.4044377+08:00|12|INFO|DataSync.Log|TransmissionSendStarted. TransmissionId: 6fe0649505d34582903847e70edfa3ca(0-0). 
+2020-04-03T15:02:00.6110517+08:00|18|INFO|DataSync.Log|TransmissionSent. TransmissionId: 6fe0649505d34582903847e70edfa3ca(0-0). Capacity: 0. 
+2020-04-03T15:12:25.5754746+08:00|1|INFO|DataSync.Log|Storage folder: D:\專案\LinetracingVR\Assets\StreamingAssets\TestData\TestStore successfully validated. 
+2020-04-03T15:12:25.6063924+08:00|18|INFO|DataSync.Log|StorageSize. StorageSize: 0. 
+2020-04-03T15:12:25.6672291+08:00|18|INFO|DataSync.Log|MovedFromStorageToSender. 
+2020-04-03T15:12:25.7236865+08:00|18|INFO|DataSync.Log|MovedFromStorageToBuffer. 
+2020-04-03T15:12:25.7805347+08:00|18|INFO|DataSync.Log|MovedFromBufferToSender. 
+2020-04-03T15:12:32.1273943+08:00|1|INFO|DataSync.Log|Transmitter flushed telemetry events. 
+2020-04-03T15:12:32.1273943+08:00|1|INFO|DataSync.Log|SerializationStarted. Items count: 2 
+2020-04-03T15:12:32.1712765+08:00|1|INFO|DataSync.Log|TransmitterEnqueue. TransmissionId: 7369f97f38804ee885b506ff8d1dfbc5(0-1). 
+2020-04-03T15:12:32.1712765+08:00|1|INFO|DataSync.Log|TransmissionSendStarted. TransmissionId: 7369f97f38804ee885b506ff8d1dfbc5(0-1). 
+2020-04-03T15:12:32.2201461+08:00|1|INFO|DataSync.Log|DataSync.ApplicationLifecycleTransmissionPolicy changed sender capacity to 0 
+2020-04-03T15:12:32.2341094+08:00|1|INFO|DataSync.Log|DataSync.ApplicationLifecycleTransmissionPolicy changed buffer capacity to 0 
+2020-04-03T15:12:32.2341094+08:00|1|INFO|DataSync.Log|StorageCapacityReset: DataSync.ApplicationLifecycleTransmissionPolicy 
+2020-04-03T15:12:32.2341094+08:00|1|WARN|DataSync.Log|BufferEnqueueNoCapacity. Size: 0. Capacity: 0. 
+2020-04-03T15:12:32.2520606+08:00|1|INFO|DataSync.Log|MovedFromBufferToStorage. 
+2020-04-03T15:12:32.2520606+08:00|1|INFO|DataSync.Log|TransmitterEmptyBuffer 
+2020-04-03T15:12:32.2520606+08:00|19|INFO|DataSync.Log|TransmissionSent. TransmissionId: 7369f97f38804ee885b506ff8d1dfbc5(0-1). Capacity: 0. 
+2020-04-03T15:12:32.2640282+08:00|1|WARN|DataSync.Log|BufferEnqueueNoCapacity. Size: 0. Capacity: 0. 
+2020-04-03T15:12:32.2640282+08:00|19|WARN|DataSync.Log|SenderEnqueueNoCapacity. TransmissionCount: 0. Capacity: 0. 
+2020-04-03T16:22:50.6824399+08:00|1|INFO|DataSync.Log|Storage folder: D:\專案\LinetracingVR\Assets\StreamingAssets\TestData\TestStore successfully validated. 
+2020-04-03T16:22:50.7153243+08:00|12|INFO|DataSync.Log|StorageSize. StorageSize: 0. 
+2020-04-03T16:22:50.7751622+08:00|12|INFO|DataSync.Log|MovedFromStorageToSender. 
+2020-04-03T16:22:50.8315182+08:00|12|INFO|DataSync.Log|MovedFromStorageToBuffer. 
+2020-04-03T16:22:50.8883659+08:00|12|INFO|DataSync.Log|MovedFromBufferToSender. 
+2020-04-03T16:23:20.7270920+08:00|17|INFO|DataSync.Log|SerializationStarted. Items count: 1 
+2020-04-03T16:23:20.7629966+08:00|17|INFO|DataSync.Log|TransmitterEnqueue. TransmissionId: 0dacf568214a461b87a25c2e5a695cd1(0-0). 
+2020-04-03T16:23:20.7629966+08:00|17|INFO|DataSync.Log|TransmissionSendStarted. TransmissionId: 0dacf568214a461b87a25c2e5a695cd1(0-0). 
+2020-04-03T16:23:20.8722359+08:00|11|INFO|DataSync.Log|TransmissionSent. TransmissionId: 0dacf568214a461b87a25c2e5a695cd1(0-0). Capacity: 0. 
+2020-04-03T20:28:06.2289280+08:00|1|INFO|DataSync.Log|Storage folder: D:\專案\LinetracingVR\Assets\StreamingAssets\TestData\TestStore successfully validated. 
+2020-04-03T20:28:06.2598462+08:00|9|INFO|DataSync.Log|StorageSize. StorageSize: 0. 
+2020-04-03T20:28:06.3191985+08:00|9|INFO|DataSync.Log|MovedFromStorageToSender. 
+2020-04-03T20:28:06.3805425+08:00|9|INFO|DataSync.Log|MovedFromStorageToBuffer. 
+2020-04-03T20:28:06.4423772+08:00|9|INFO|DataSync.Log|MovedFromBufferToSender. 
+2020-04-03T20:28:36.2737422+08:00|9|INFO|DataSync.Log|SerializationStarted. Items count: 1 
+2020-04-03T20:28:36.3066543+08:00|9|INFO|DataSync.Log|TransmitterEnqueue. TransmissionId: 3e3fbd0cd8714bc08fbcba7d0a09d595(0-0). 
+2020-04-03T20:28:36.3146329+08:00|9|INFO|DataSync.Log|TransmissionSendStarted. TransmissionId: 3e3fbd0cd8714bc08fbcba7d0a09d595(0-0). 
+2020-04-03T20:28:36.3904299+08:00|11|INFO|DataSync.Log|TransmissionSent. TransmissionId: 3e3fbd0cd8714bc08fbcba7d0a09d595(0-0). Capacity: 0. 
+2020-04-03T20:33:09.6776823+08:00|1|INFO|DataSync.Log|Storage folder: D:\專案\LinetracingVR\Assets\StreamingAssets\TestData\TestStore successfully validated. 
+2020-04-03T20:33:09.7101333+08:00|10|INFO|DataSync.Log|StorageSize. StorageSize: 0. 
+2020-04-03T20:33:09.7699736+08:00|10|INFO|DataSync.Log|MovedFromStorageToSender. 
+2020-04-03T20:33:09.8622344+08:00|10|INFO|DataSync.Log|MovedFromStorageToBuffer. 
+2020-04-03T20:33:09.9190823+08:00|10|INFO|DataSync.Log|MovedFromBufferToSender. 
+2020-04-03T20:33:39.7214869+08:00|20|INFO|DataSync.Log|SerializationStarted. Items count: 1 
+2020-04-03T20:33:39.7524044+08:00|20|INFO|DataSync.Log|TransmitterEnqueue. TransmissionId: e2014ecfd16443a78faf22756fc3e202(0-0). 
+2020-04-03T20:33:39.7524044+08:00|20|INFO|DataSync.Log|TransmissionSendStarted. TransmissionId: e2014ecfd16443a78faf22756fc3e202(0-0). 
+2020-04-03T20:33:39.8396805+08:00|19|INFO|DataSync.Log|TransmissionSent. TransmissionId: e2014ecfd16443a78faf22756fc3e202(0-0). Capacity: 0. 
+2020-04-03T21:17:40.9110890+08:00|1|INFO|DataSync.Log|Storage folder: D:\專案\LinetracingVR\Assets\StreamingAssets\TestData\TestStore successfully validated. 
+2020-04-03T21:17:40.9439726+08:00|12|INFO|DataSync.Log|StorageSize. StorageSize: 0. 
+2020-04-03T21:17:41.0048097+08:00|12|INFO|DataSync.Log|MovedFromStorageToSender. 
+2020-04-03T21:17:41.0885902+08:00|12|INFO|DataSync.Log|MovedFromStorageToBuffer. 
+2020-04-03T21:17:41.1464369+08:00|12|INFO|DataSync.Log|MovedFromBufferToSender. 

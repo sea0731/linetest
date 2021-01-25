@@ -1,0 +1,68 @@
+﻿Key,Type,Desc,Chinese,Taiwan,English
+UD,Text,,上下分屏,上下分屏,UD
+Horizontal,Text,,上下颠倒,上下顛倒,Horizontal
+FULL,Text,,全屏模式,全屏模式,FULL
+ThreeD,Text,,三维模式,三維模式,ThreeD
+Central,Text,,完全颠倒,完全顛倒,Central
+ScreenMode,Text,,屏幕模式:,屏幕模式:,ScreenMode:
+LR,Text,,左右分屏,左右分屏,LR
+Vertical,Text,,左右颠倒,左右顛倒,Vertical
+Static,Text,,静态,靜態,Static
+Dynamic,Text,,动态,動態,Dynamic
+LineMode,Text,,曲线模式:,曲線模式:,LineMode:
+Normal,Text,,正常模式,正常模式,Normal
+Edit,Text,,编辑模式,編輯模式,EditMode
+Training,Text,,训练模式,訓練模式,TrainingMode
+MirrorMode,Text,,镜像模式:,鏡像模式:,MirrorMode:
+GameMode,Text,,游戏模式:,遊戲模式:,GameMode:
+FileName,Text,,线条名称:,線條名稱:,InputFile:
+TwoD,Text,,二维模式,二維模式,TwoD
+SpaceMode,Text,,空间模式:,空間模式:,SpaceMode:
+ModeChoose,Text,,模式选择,模式選擇,ModeChoose
+StartButton,Text,,开始,開始,StartButton
+UserIDInputFieldPlaceholder,Text,,输入用户名…,輸入用戶名…,Enter UserID…
+Leave,Text,,离开,離開,Leave
+Stay,Text,,留下,留下,Stay
+TwoDEditOperatingHint,Text,,创造线条方法: \n按住画面任一点画线直到放开,創造線條方法: \n按住畫面任一點畫線直到放開,Create line method: \nPress and hold any point on the screen until you release
+ThreeDEditOperatingHint,Text,,创造线条方法: \n按住板机画线直到放开 \n\n按下选单按钮即可选择离开,創造線條方法: \n按住板機畫線直到放開 \n\n按下選單按鈕即可選擇離開,Create line method: \nHold the trigger to draw line until you release \n\nPress the menu button to choose whether to leave
+TwoDTrainingOperatingHint,Text,,"消除线条方法: \n对准绿色起始点按住后,开始消除线并跟着路线往红色终点","消除線條方法: \n對準綠色起始點按住後,開始消除線並跟著路線往紅色終點","Clear the line method: \nAfter pressing the green starting point,start to clear the line and follow the route to the red end \n\nPress the menu button to choose whether to leave"
+ThreeDTrainingOperatingHint,Text,,"消除线条方法: \n手柄对准绿色起始点后,按住板机开始消除线并跟着路线往红色终点 \n\n按下选单按钮即可选择离开","消除線條方法: \n手柄對準綠色起始點後,按住板機開始消除線並跟著路線往紅色終點 \n\n按下選單按鈕即可選擇離開","Clear the line method: \nAfter the controller is aligned with the green starting point,click and hold the trigger to clear the line and follow the route to the red end \n\nPress the menu button to choose whether to leave"
+CheckHint,Text,,确认完操作方法后按下板机关闭选单,確認完操作方法後按下板機關閉選單,"After confirming the operation method, press the trigger to close the menu"
+ReturnMainUIBtn,Text,,主选单,主選單,MainMenu
+EndGameBtn,Text,,游戏结束,遊戲結束,GameEnd
+ResultTitle,Text,,恭喜您完成本次任务,恭喜您完成本次任務,Congratulations on completing this task
+TimeText,Text,,游戏总用时为:,遊戲總用時為:,The total time is 
+TimeMin,Text,,分,分,min
+TimeSec,Text,,秒,秒,sec
+ScoreText,Text,,您的完成分数为:,您的完成分數為:,Your score is 
+Score,Text,,分,分, 
+Confirm,Text,,确认,確認,Confirm
+Cancel,Text,,取消,取消,Cancel
+EnterFileName,Text,,请输入档名,請輸入檔名,Please enter the file name
+TwoDSaveLineHint,Text,,档名只能输入英文与数字,檔名只能輸入英文與數字,File name can only be entered in English and numbers
+TwoDSaveLineHintError,Text,,档名输入错误或已存在,檔名輸入錯誤或已存在,File name entered incorrectly or already exists
+DeleteLineHint,Text,,是否删除当前线条,是否刪除當前線條,Whether to delete the current line
+AddLineToggle,Text,,新增线条,新增線條,Add line
+DisplayLineToggle,Text,,查看线条,查看線條,View line
+DeleteLineButton,Text,,删除线条,刪除線條,Delete line
+KeyboardBackspace,Text,,后退,後退,BACKSPACE
+KeyboardClear,Text,,清除,清除,CLEAR
+KeyboardEnter,Text,,输入,輸入,ENTER
+KeyboardShift,Text,,转换,轉換,SHIFT
+KeyboardCancel,Text,,取消,取消,Cancel
+KeyboardValidationNotice,Text,,输入错误,輸入錯誤,Input validation failed
+KeyboardInfoNotice,Text,,"正在保存,请稍候...","正在保存,請稍候...","Saving, please wait..."
+KeyboardSuccessNotice,Text,,成功储存!,成功儲存!,Success to save!
+KeyboardEnterFileName,Text,,请输入档名,請輸入檔名,Please enter the file name
+KeyboardFileExist,Text,,文件已存在!,文件已存在!,File already exists!
+MenuHint,Text,,是否回到主选单,是否回到主選單,Whether to return to the main menu
+Difficulty,Text,,难度,難度,Difficulty
+None,Text,,无,無,None
+VRWarning,Text,,"VR空间只能选择动态曲线,无屏幕,无镜像模式!","VR空間只能選擇動態曲線,無屏幕,無鏡像模式!","VR space can only choose dynamic line, no screen, no mirror mode!"
+ChooseLineMode,Text,,请选择一种曲线模式!,請選擇一種曲線模式!,Please select a line mode!
+ChooseSpaceMode,Text,,请选择一种空间模式!,請選擇一種空間模式!,Please select a space mode!
+Easy,Text,,简单模式,簡單模式,Easy
+Hard,Text,,困难模式,困難模式,Hard
+ChooseScreenMode,Text,,请选择一种屏幕模式!,請選擇一種屏幕模式!,Please select a screen mode!
+ChooseMirrorMode,Text,,请选择一种镜像模式!,請選擇一種鏡像模式!,Please select a mirror mode!
+InputWarning,Text,,请输入ID!,請輸入ID!,Please enter ID!
